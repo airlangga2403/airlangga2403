@@ -1,6 +1,7 @@
 <h1>My Life From The Name</h1>
-Buat Profile kayak orang orang
-## Tech Nerd ! <img src="https://i.pinimg.com/originals/6f/0d/e7/6f0de73a28fd537202ed6b32a5c9a11f.jpg" width="600">
+<r>
+Buat Profile kayak orang orang HUMUM
+## Tech Nerd ! <img src="https://i.pinimg.com/originals/6f/0d/e7/6f0de73a28fd537202ed6b32a5c9a11f.jpg" width="300
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce convallis nibh sit amet fermentum porta. Pellentesque sed velit in lorem faucibus tempor in nec ligula. Suspendisse viverra tortor non tempus hendrerit. Curabitur fringilla lectus odio, mollis consequat enim blandit quis. Mauris vel tincidunt tellus. In tincidunt massa enim, eget tincidunt magna scelerisque pulvinar. Etiam non semper felis, a mattis nulla. Pellentesque molestie mauris neque. Curabitur justo ligula, ullamcorper in metus sed, tristique porttitor orci. Praesent condimentum lacus sed elit mattis eleifend. Duis ultricies, elit vitae fermentum convallis, elit enim semper nisl, at pretium magna leo in felis. Duis fringilla mi a ligula tincidunt, ac finibus mauris facilisis. Etiam felis lorem, vulputate eu enim a, varius vulputate velit. Ut eu neque eu libero blandit dignissim. Curabitur quis cursus justo, id gravida diam.
 
@@ -13,7 +14,7 @@ Aliquam a est sagittis, suscipit est non, suscipit nulla. Sed varius magna eu ve
 
 ### **My Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airlangga2403&layout=compact)](https://github.com/airlangga2403/github-readme-stats)
-Gak bisa bahasa enggress --
+<br>
 
 Nulla vitae nibh id sapien semper placerat eget et nunc. Nullam auctor magna ex, nec sagittis dolor dictum at. Fusce elit lectus, vehicula eget leo nec, tincidunt laoreet nisi. Ut aliquam ut dolor a interdum. Vestibulum fermentum pharetra euismod. Nullam at ante mi. Aenean vitae purus dictum, sollicitudin diam tempus, interdum nulla. Nullam sollicitudin tincidunt lectus. Nam sed orci dui. Pellentesque elit turpis, fermentum vitae felis in, elementum varius orci. Suspendisse finibus mi efficitur odio laoreet maximus. Maecenas nec ligula massa. Vivamus gravida vulputate nibh quis cursus.
 
