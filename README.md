@@ -1,5 +1,5 @@
 <h1>My Life From The Name</h1>
-# Hello, folks! <img src="https://media3.giphy.com/media/ic7GvjdIc8TAG8qokQ/giphy.gif?cid=790b7611e762407dbd31b47c3be21bb4622f133e94c07651&rid=giphy.gif&ct=g">
+# Hello, folks! <img src="https://media3.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif?cid=790b76110afdd95b8aa7b0e7c075588fde97d19f70c9bd01&rid=giphy.gif&ct=g" width=100px>
 
 ## ~ WoRk Hard PlayHard ~~~
 
