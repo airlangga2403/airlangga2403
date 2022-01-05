@@ -1,5 +1,5 @@
 <h1>My Life From The Name</h1>
-## ##Tech Enthusiast! <img src="https://c8.alamy.com/comp/PF3NWT/desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3NWT.jpg" width="800">
+## ##Tech Enthusiast! <img src="https://i.pinimg.com/originals/6f/0d/e7/6f0de73a28fd537202ed6b32a5c9a11f.jpg" width="600">
 
 ## ~ WoRk Hard PlayHard ~
 
