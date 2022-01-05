@@ -1,5 +1,6 @@
 <h1>My Life From The Name</h1>
-<iframe src="https://giphy.com/embed/ic7GvjdIc8TAG8qokQ" width="346" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spirit-kaleidoscope-spiritual-ic7GvjdIc8TAG8qokQ">via GIPHY</a></p>
+# Hello, folks! <img src="https://media3.giphy.com/media/ic7GvjdIc8TAG8qokQ/giphy.gif?cid=790b7611e762407dbd31b47c3be21bb4622f133e94c07651&rid=giphy.gif&ct=g" width="30px">
+
 ## &#x1f4c8; ~ WoRk Hard PlayHard ~~~
 
 ## &#x1f4c8; GitHub Stats
