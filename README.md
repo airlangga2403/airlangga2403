@@ -1,5 +1,5 @@
 <h1>My Life From The Name</h1>
-# Hello, folks! <img src="https://c8.alamy.com/comp/PF3NWT/desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3NWT.jpg" width="500">
+# Hello, folks! <img src="https://c8.alamy.com/comp/PF3NWT/desktop-source-code-and-technology-background-developer-or-programer-with-coding-and-programming-wallpaper-by-computer-language-and-source-code-com-PF3NWT.jpg" width="800">
 
 ## ~ WoRk Hard PlayHard ~~~
 
