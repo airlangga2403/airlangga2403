@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?airlangga2403=&theme=radical)
+https://github-readme-stats.vercel.app/api?username=airlangga2403&show_icons=true&theme=radical
