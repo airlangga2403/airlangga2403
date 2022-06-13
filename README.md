@@ -9,6 +9,7 @@ Buat Profile kayak orang orang HUMUM
 ![Aer GitHub stats](https://github-readme-stats.vercel.app/api?username=airlangga2403&show_icons=true&theme=radical)
 
 Orang baru belajar main komputer
+
 cita cita jadi orang kaya
 
 ### **My Languages**
