@@ -1,6 +1,6 @@
 <h1>My Life From The Name</h1>
 <br>
-Buat Profile kayak orang orang HUMUM
+About Me
 <br>
 <img src="https://i.pinimg.com/originals/6f/0d/e7/6f0de73a28fd537202ed6b32a5c9a11f.jpg" width="300">
 
