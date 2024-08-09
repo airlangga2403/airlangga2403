@@ -1,11 +1,17 @@
-<h1 align="center">Hello, I'm Airlangga Permana Putra</h1>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/0d/e7/6f0de73a28fd537202ed6b32a5c9a11f.jpg" alt="Profile Picture" width="300">
-</p>
-
-<p align="center">
+<h1>Hello, I'm Airlangga Permana Putra</h1>
+<p>
   Software Developer with expertise in a range of technologies. Passionate about building innovative solutions and continuously learning new skills. 
 </p>
+
+---
+
+## 🏃‍♂️ Jump to It!
+
+- [🛠️ Tools & Tech Stack](#-tools--tech-stack)
+- [📈 GitHub Stats](#-github-stats)
+- [💻 Top Languages](#-top-languages)
+- [📚 Learning Journey](#-learning-journey)
+- [📫 How to Reach Me](#-how-to-reach-me)
 
 ---
 
@@ -28,6 +34,12 @@
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis&logoColor=white)
 - ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+
+### **Cloud Platforms**
+- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+- ![Railway](https://img.shields.io/badge/Railway-6D5BFF?style=flat&logo=railway&logoColor=white)
 
 ### **Other Tools & Technologies**
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -64,8 +76,8 @@
 
 ## 📫 How to Reach Me
 
-- **Email:** [airlangga_dev.iron101@simplelogin.com](mailto:airlangga_dev.iron101@simplelogin.com)
-- **LinkedIn:** [Airlangga Permana Putra](https://www.linkedin.com/in/airlangga-permana-putra-53599b1b7/)
+- **Email:** [airlanggapermana96@gmail.com](mailto:airlanggapermana96@gmail.com)
+- **LinkedIn:** [airlangga-permana-putra](https://www.linkedin.com/in/airlangga-permana-putra-53599b1b7/)
 ---
 
 <p align="center">
