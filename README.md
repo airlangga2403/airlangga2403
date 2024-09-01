@@ -65,15 +65,6 @@
 </p>
 
 ---
-
-## 📚 Learning Journey
-
-- **React.js** - Creating dynamic and responsive web applications.
-- **Spring Boot** - Developing robust and scalable Java applications.
-- **Docker** - Simplifying deployment and managing containerized applications.
-
----
-
 ## 📫 How to Reach Me
 
 - **Email:** [airlanggapermana96@gmail.com](mailto:airlanggapermana96@gmail.com)
